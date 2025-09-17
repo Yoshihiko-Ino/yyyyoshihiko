@@ -1,4 +1,4 @@
-# XIVPF Watcher (GUI)
+# XIVPF Watcher
 
 XIVPF Watcher は [xivpf.com](https://xivpf.com/) の募集一覧を定期的に監視し、条件に合致した募集を通知するための GUI ツールです。検索条件や通知先、通知モードを設定でき、Windows 環境での常駐監視を想定しています。
 
