@@ -14,5 +14,4 @@ XIVPF Watcher は [xivpf.com](https://xivpf.com/) の募集一覧を定期的に
 
 ## 動作環境
 - Windows 10 / 11
-- Python 3.11 以降（ソースから実行する場合）
 - ネットワーク接続必須（xivpf.com / ntfy.sh へのアクセス）
